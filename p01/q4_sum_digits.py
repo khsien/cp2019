@@ -7,4 +7,4 @@ d = b % 10
 e = c // 10
 f = c % 10
 
-print( a + d + e + f )
+print("The sum of the digits are " + str( a + d + e + f) )
